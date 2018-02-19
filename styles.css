@@ -1,0 +1,21 @@
+.directions {
+  text-align: center;
+  height: 100px;
+  width: 100px;
+}
+
+.northBtn{
+  margin-bottom: 10px;
+}
+
+.westBtn {
+  margin-bottom: 10px;
+}
+
+.eastBtn {
+  margin-bottom: 10px;
+}
+
+.southBtn {
+  
+}
